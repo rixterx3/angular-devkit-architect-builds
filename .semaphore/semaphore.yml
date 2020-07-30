@@ -5,9 +5,7 @@ agent:
     type: e1-standard-2
     os_image: ubuntu1804
     
-    
-execution_time_limit:
-    hours: 4
+
 
 blocks:
   - name: 'Block'
